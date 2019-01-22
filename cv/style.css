@@ -19,7 +19,7 @@ footer{
 	height: 80px;
 	padding-top: 30px;
 	text-align: center;
-	background-color: #C5C5C5
+	background-color: #C5C5C5;
 	border-top: 2px solid #AAA;
 }
 
@@ -43,8 +43,13 @@ nav li{
 nav a {
 	display: inline-block;
 	text-decoration: none;
-	padding: 20px 30xp;
+	padding: 20px 30px;
 	color: #FFF;
 	text-transform: uppercase;
 	font-size: 15px;
+}
+
+.table{
+	display: table;
+	margin: 0 auto;
 }
